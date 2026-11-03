@@ -59,11 +59,12 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-th]');if(!
 
 /* ============ UI HELPERS ============ */
 let tt;
-const toast=t=>{const e=$('#toast');e.textContent=t;e.classList.add('on');clearTimeout(tt);tt=setTimeout(()=>e.classList.remove('on'),4500)};
-document.addEventListener('click',e=>{if(e.target.closest('#toast'))$('#toast').classList.remove('on')});
+const hideToast=()=>{const e=$('#toast');clearTimeout(tt);e.classList.remove('on');tt=setTimeout(()=>{e.style.display='none'},450)};
+const toast=t=>{const e=$('#toast');clearTimeout(tt);e.textContent=t;e.style.display='block';void e.offsetWidth;e.classList.add('on');tt=setTimeout(hideToast,4000)};
+document.addEventListener('pointerdown',e=>{if(e.target.closest('#toast'))hideToast()});
 const modal=h=>{$('#md').innerHTML='<div class="mc">'+h+'<div class="row"><button class="b" data-s="click" onclick="cl()">Tutup</button></div></div>';$('#md').classList.add('on')};
 const cl=()=>$('#md').classList.remove('on');
-const view=h=>{cl();$('#app').innerHTML=h};
+const view=h=>{cl();hideToast();$('#app').innerHTML=h};
 const praise=['Great Job!','Excellent!','Amazing Experiment!',"You're a Little Scientist!"];
 
 /* ============ ACHIEVEMENT ============ */
