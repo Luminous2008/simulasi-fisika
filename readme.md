@@ -13,11 +13,11 @@
 
 * **Nama Kelompok:** [Nama Kelompok Kamu, contoh: Kelompok 4 - Alpha Physics]
 * **Anggota Tim:**
-  - **Rafa Arinanda** — *Nim kamu*
-  - **[Nama Anggota 2]** — *Nim kamu*
+  - **Rafa Arinanda** — *260536657086*
+  - **Rasyad Fadhil Muzakki** — *260636653607*
+  - **Muhamad Khamim Fahri** — *260543651297*
   - **[Nama Anggota 3]** — *Nim kamu*
-    **[Nama Anggota 3]** — *Nim kamu*
-    **[Nama Anggota 3]** — *Nim kamu*
+  - **[Nama Anggota 3]** — *Nim kamu*
 
 ---
 
