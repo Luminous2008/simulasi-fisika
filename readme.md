@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 > **Simulasi Fisika Dasar Interaktif Berbasis Web (Chrome Game)**  
-> Proyek ini memodelkan fenomena **Apel Jatuh** untuk menguji dan memvisualisasikan **Hukum II Newton** secara *real-time* langsung dari peramban (browser).
+> Proyek ini memodelkan hukum fisika seperti contoh : **Apel Jatuh** untuk menguji dan memvisualisasikan **Hukum II Newton** secara *real-time* dan masih banyak lagi fisika yang lainya langsung di akses dari peramban (browser).
 
 ---
 
@@ -13,9 +13,9 @@
 
 * **Nama Kelompok:** [Nama Kelompok Kamu, contoh: Kelompok 4 - Alpha Physics]
 * **Anggota Tim:**
-  - **Rafa Arinanda** — *260536657086*
-  - **Rasyad Fadil Muzzaki** — *260636653607*
-  - **Muhammad Khamim Fahri** — *260543651297*
+  - **Rafa Arinanda** — *Nim kamu*
+  - **[Nama Anggota 2]** — *Nim kamu*
+  - **[Nama Anggota 3]** — *Nim kamu*
     **[Nama Anggota 3]** — *Nim kamu*
     **[Nama Anggota 3]** — *Nim kamu*
 
@@ -28,8 +28,3 @@ https://youtu.be/DYCMQ7qsZqM?si=cqA5PRMYwnYb0-pR
 ## 🚀 Cara Menjalankan Proyek (Quick Start)
 
 Karena proyek ini menggunakan teknologi murni **HTML5, CSS3, dan Vanilla JavaScript**, kamu tidak memerlukan instalasi *server* atau dependensi Node.js.
-
-### Menjalankan di Local Browser
-1. **Kloning Repository Ini:**
-   ```bash
-   git clone [https://github.com/Luminous2008/simulasi-fisika.git](https://github.com/Luminous2008/simulasi-fisika.git)
