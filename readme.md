@@ -28,8 +28,3 @@ https://youtu.be/DYCMQ7qsZqM?si=cqA5PRMYwnYb0-pR
 ## 🚀 Cara Menjalankan Proyek (Quick Start)
 
 Karena proyek ini menggunakan teknologi murni **HTML5, CSS3, dan Vanilla JavaScript**, kamu tidak memerlukan instalasi *server* atau dependensi Node.js.
-
-### Menjalankan di Local Browser
-1. **Kloning Repository Ini:**
-   ```bash
-   git clone [https://github.com/Luminous2008/simulasi-fisika.git](https://github.com/Luminous2008/simulasi-fisika.git)
