@@ -9,13 +9,13 @@
 
 ---
 
-## 👨‍💻 Nama lomba yang di ikuti
+## 👨‍💻 Desain & Simulasi Fisika
 
 * **Nama Kelompok:** [Nama Kelompok Kamu, contoh: Kelompok 4 - Alpha Physics]
 * **Anggota Tim:**
-  - **Rafa Arinanda** — *Nim kamu*
-  - **[Nama Anggota 2]** — *Nim kamu*
-  - **[Nama Anggota 3]** — *Nim kamu*
+  - **Rafa Arinanda** — *260536657086*
+  - **Rasyad Fadil Muzzaki** — *260636653607*
+  - **Muhammad Khamim Fahri** — *260543651297*
     **[Nama Anggota 3]** — *Nim kamu*
     **[Nama Anggota 3]** — *Nim kamu*
 
